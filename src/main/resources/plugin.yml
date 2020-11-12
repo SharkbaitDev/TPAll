@@ -1,0 +1,10 @@
+name: TPAll
+version: ${project.version}
+main: me.arab.tpall.Core
+api-version: 1.16
+authors: [Arab]
+description: Optimized /tpall command.
+commands:
+  tpall:
+    usage: /tpall
+    description: teleport all players!

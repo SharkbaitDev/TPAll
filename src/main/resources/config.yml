@@ -1,0 +1,7 @@
+# TPAll Config File
+# player-amount = amount of players teleported every tick increment
+# increment-ticks = how often the player amount should be teleported
+# NOTE: 10 ticks = half a second, 20 ticks = 1 second, 40 ticks = 2 seconds, etc
+player-amount: 1
+increment-ticks: 10
+teleport-message: "&aTeleported all players to you."
